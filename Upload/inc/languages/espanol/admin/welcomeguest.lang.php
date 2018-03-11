@@ -14,8 +14,8 @@
 
 // welcomeguest_plugin_info
 
-$l['welcomeguest_Name'] = 'Welcome Guest';
-$l['welcomeguest_Desc'] = 'Shows a welcome box to guests on index and portal page.';
+$l['welcomeguest_Name'] = 'Bienvenido Invitado';
+$l['welcomeguest_Desc'] = 'Muestra un cuadro de bienvenida para los invitados en el índice y la página del portal.';
 $l['welcomeguest_Web'] = 'http://community.mybb.com/user-6029.html';
 $l['welcomeguest_Auth'] = 'Sebastian Wunderlich & updated by Vintagedaddyo';
 $l['welcomeguest_AuthSite'] = 'http://community.mybb.com/user-6029.html';

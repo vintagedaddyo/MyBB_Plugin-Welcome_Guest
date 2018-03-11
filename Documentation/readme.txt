@@ -15,6 +15,14 @@ Updated to version 1.6 for MyBB 1.8.x usage by: Vintagedaddyo
 - Further localization
 - More in-depth guest message
 
+Updated to version 1.7 for MyBB 1.8.x usage by: Vintagedaddyo
+- Minor code changes
+- Further localization
+-englishgb
+-french
+-espanol
+-italiano
+
 Compatibility
 MyBB 1.8: Yes 
 
